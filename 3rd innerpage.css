@@ -1,0 +1,72 @@
+<style>
+        .recipes{
+        background-image: url(/image/recipe-book-linear-icon-modern-outline-logo-concept-white-background-kitchen-collection-suitable-use-web-apps-mobile-133522235.webp);
+        height: 200vh;
+        width: 200vh;
+        justify-content: space-around;
+        
+        
+    
+    }
+    .dish1{
+        border: ridge burlywood 10px;
+        width: 700px;
+        height: 200vh;
+        background-color:rgb(48, 17, 9);
+        filter: drop-shadow(5px 5px 5px);
+        display: flex;
+        flex-wrap: wrap;
+        float: left;
+
+    }
+    .Desserts{
+        margin-left: 1%;
+        justify-content: space-between;
+    }
+    img{
+        margin-left: 15%;
+    }
+    .ingredients{
+        margin-left: 8%;
+        color: cadetblue;
+        border: dashed white;
+        border-radius: 50px;
+        width: 600px;
+        height: 400px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .instructions{
+        color: cadetblue;
+        border: dashed white;
+        border-radius: 50px;
+        margin-left: 0.5%;
+        display: flex;
+        flex-wrap: wrap;
+        width: 700px;
+        height: 500px;
+    }
+    .dish2{
+        border: ridge burlywood 10px;
+        width: 700px;
+        height: 200vh;
+        background-color:rgb(48, 17, 9);
+        filter: drop-shadow(5px 5px 5px);
+        display: flex;
+        flex-wrap: wrap;
+        float: right;
+
+    }
+    a:hover{
+        color: blue;
+        background-color: brown;
+    }
+    .ha{
+        text-align: center;
+        font-size: xx-large;
+        color: linen;
+        background-color: darkgray;
+        border-radius: 10px;
+        margin-left: 45%;
+    }
+    </style>
