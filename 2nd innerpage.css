@@ -1,0 +1,80 @@
+<style>
+        .recipes{
+            background-image: url(/image/recipe-book-linear-icon-modern-outline-logo-concept-white-background-kitchen-collection-suitable-use-web-apps-mobile-133522235.webp);
+            height: 200vh;
+            width: 200vh;
+            justify-content: space-between;
+
+            
+            
+        
+        }
+        .dish1{
+            border: ridge burlywood 10px;
+            width: 670px;
+            height: 250vh;
+            background-color:rgb(48, 17, 9);
+            filter: drop-shadow(5px 5px 5px);
+            display: flex;
+            flex-wrap: wrap;
+            float: left;
+    
+        }
+        .MainCourse{
+            margin-left: 2%;
+            justify-content: space-between;
+            margin-right: 2%;
+        }
+        img{
+            margin-left: 13%;
+        }
+        .ingredients{
+            margin-left: 7%;
+            color: cadetblue;
+            border: dashed white;
+            border-radius: 50px;
+            width: 600px;
+            height: 520px;
+            display: flex;
+            flex-wrap: wrap;
+            filter: drop-shadow(5px 5px 5px);
+        
+        }
+        
+        .instructions{
+            color: cadetblue;
+            border: dashed white;
+            border-radius: 50px;
+            margin-left: 0.5%;
+            display: flex;
+            flex-wrap: wrap;
+            width: 700px;
+            height: 600px;
+            filter: drop-shadow(5px 5px 5px);
+        }
+        .dish2{
+            border: ridge burlywood 10px;
+            width: 670px;
+            height: 250vh;
+            background-color:rgb(48, 17, 9);
+            filter: drop-shadow(5px 5px 5px);
+            display: flex;
+            flex-wrap: wrap;
+            float: right;
+    
+        }
+        a:hover{
+        color: blue;
+        background-color: brown;
+    }
+    .ha{
+        text-align: center;
+        font-size: xx-large;
+        color: linen;
+        background-color: darkgray;
+        border-radius: 10px;
+        margin-left: 45%;
+    }
+        
+        
+    </style>
